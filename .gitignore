@@ -1,0 +1,16 @@
+node_modules/
+config.env
+.env
+*.log
+.DS_Store
+Thumbs.db
+package-lock.json
+Natours_Project/
+*.pem
+*.key
+.vscode/
+.idea/
+coverage/
+dist/
+build/
+tmp/
